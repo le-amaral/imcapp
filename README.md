@@ -5,11 +5,10 @@ Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  p
 
 ![Tabela IMC](https://github.com/le-amaral/imcapp/blob/main/imagens/tabela-imc.png)
 -
-Exemplo:
+Abaixo do peso:
 
-![home](https://github.com/le-amaral/imcapp/blob/main/imagens/home.png?raw=true)
 
-![resultado](https://github.com/le-amaral/imcapp/blob/main/imagens/resultado.png?raw=true)
+
 
 
 ---
