@@ -6,7 +6,7 @@ Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  p
 ![Tabela IMC](https://github.com/le-amaral/imcapp/blob/main/imagens/home.png)
 -
 Home:
-![home](le-amaral/imcapp/imagens/home.png)
+![home](https://github.com/le-amaral/imcapp/blob/main/imagens/home.png)
 -
 Altura: 1.60 Peso: 45kg
 ![img](https://github.com/le-amaral/imcapp/blob/main/imagens/pesoabaixo.png)
