@@ -1,5 +1,5 @@
 # imcapp
-
+124100001 - Leonarda Correia Amaral
 ## Calculador de IMC (Índice de Massa Corporal)
 Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  para calcular o índice de massa corporal e mitigar suas respectivas faixas de peso ideal/obesidade.
 
