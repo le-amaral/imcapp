@@ -7,7 +7,9 @@ Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  p
 -
 Exemplo:
 
-![home](https://github.com/le-amaral/imcapp/blob/main/imagens/home.png?raw=true) | ![resultado](https://github.com/le-amaral/imcapp/blob/main/imagens/resultado.png?raw=true)
+![home](https://github.com/le-amaral/imcapp/blob/main/imagens/home.png?raw=true)
+
+![resultado](https://github.com/le-amaral/imcapp/blob/main/imagens/resultado.png?raw=true)
 
 
 ---
