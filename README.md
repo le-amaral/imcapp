@@ -3,7 +3,9 @@
 ## Calculador de IMC (Índice de Massa Corporal)
 Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  para calcular o índice de massa corporal e mitigar suas respectivas faixas de peso ideal/obesidade.
 -
-![Tabela IMC](https://github.com/le-amaral/imcapp/blob/main/imagens/tabela-imc.png | width=100)
+![Tabela IMC](https://github.com/le-amaral/imcapp/blob/main/imagens/tabela-imc.png)
+-
+Exemplo:
 
 
 ---
