@@ -5,10 +5,26 @@ Este projeto utiliza Dart e Flutter. O objetivo é criar um aplicativo mobile  p
 
 ![Tabela IMC](https://github.com/le-amaral/imcapp/blob/main/imagens/tabela-imc.png)
 -
-Abaixo do peso:
-
-
-
+Home:
+![home](le-amaral/imcapp/imagens/home.png)
+-
+Altura: 1.60 Peso: 45kg
+![img](le-amaral/imcapp/imagens/pesoabaixo.png)
+-
+Altura: 1.50 Peso: 63kg
+![img](le-amaral/imcapp/imagens/pesoideal.png)
+-
+Altura: 1.60 Peso: 70kg
+![img](le-amaral/imcapp/imagens/pesoacima.png)
+-
+Altura: 1.60 Peso: 80kg
+![img](le-amaral/imcapp/imagens/obesidadeI.png)
+-
+Altura: 1.60 Peso: 90kg
+![img](le-amaral/imcapp/imagens/obesidadeII.png)
+-
+Altura: 1.60 Peso: 120kg
+![img](le-amaral/imcapp/imagens/obesidadeIII.png)
 
 
 ---
