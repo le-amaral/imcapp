@@ -9,7 +9,7 @@ Home:
 ![home](le-amaral/imcapp/imagens/home.png)
 -
 Altura: 1.60 Peso: 45kg
-![img](le-amaral/imcapp/imagens/pesoabaixo.png)
+![img](https://github.com/le-amaral/imcapp/blob/main/imagens/pesoabaixo.png)
 -
 Altura: 1.50 Peso: 63kg
 ![img](le-amaral/imcapp/imagens/pesoideal.png)
